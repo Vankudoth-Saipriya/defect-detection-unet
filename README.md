@@ -71,17 +71,6 @@ This project implements a semantic segmentation pipeline using a U-Net model to 
 
 ---
 
-## 🚀 Future Work
-
-- Upload model training code and inference script.
-- Add sample datasets or links to reproducible data.
-- Extend to real-time inference with OpenCV or deployment via ONNX.
-- Improve performance on under-represented defect classes.
-
----
-
 ## 👩‍💻 Author
 
 **Saipriya Vankudoth**  
-Final-year B.Tech @ IIT  
-For queries, collaboration or credits, feel free to raise issues or connect.
